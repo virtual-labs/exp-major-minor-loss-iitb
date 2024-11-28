@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Determine the discharge through a pipe of diameter 24m and length 47m, when one end of the pipe is connected to a tank and other end is open to the atmosphere. The height of water level in the tank is 4m above the centre of the pipe. Consider all minor losses.",
+      "qid": 1,
+      "option_a": "230.54 lit/sec",
+      "option_b": "224.85 lit/sec",
+      "option_c": "233.18 lit/sec",
+      "option_d": "228.85 lit/sec",
+      "correct_option": "d"
+   },
+   {
+      "question": "Determine the discharge through a pipe of diameter 25m and length 60m, when one end of the pipe is connected to a tank and other end is open to the atmosphere. The height of water level in the tank is 4m above the centre of the pipe. Consider all minor losses.",
+      "qid": 2,
+      "option_a": "161.39 litt/sec",
+      "option_b": "160.18 lit/sec",
+      "option_c": "157.62 lit/sec",
+      "option_d": "168.77 litt/sec",
+      "correct_option": "a"
+   }
+]
