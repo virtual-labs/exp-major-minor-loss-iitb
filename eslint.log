@@ -1,0 +1,268 @@
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/js/activity1.js
+   19:24   warning  'MathJax' is not defined                no-undef
+   22:10   warning  'start_act1' is defined but never used  no-unused-vars
+   27:20   warning  'get_collapse_btn_text' is not defined  no-undef
+   32:67   warning  'd' is not defined                      no-undef
+   32:84   warning  'l' is not defined                      no-undef
+   32:221  warning  'h' is not defined                      no-undef
+   33:29   warning  'f' is not defined                      no-undef
+   81:5    warning  'hide_all_steps' is not defined         no-undef
+   82:24   warning  'show_step' is not defined              no-undef
+   83:24   warning  'MathJax' is not defined                no-undef
+   87:5    warning  'v2' is not defined                     no-undef
+   87:20   warning  'h' is not defined                      no-undef
+   87:37   warning  'g' is not defined                      no-undef
+   87:48   warning  'f' is not defined                      no-undef
+   87:52   warning  'l' is not defined                      no-undef
+   87:62   warning  'g' is not defined                      no-undef
+   87:67   warning  'd' is not defined                      no-undef
+   88:5    warning  'Q' is not defined                      no-undef
+   88:35   warning  'd' is not defined                      no-undef
+   88:50   warning  'v2' is not defined                     no-undef
+   89:5    warning  'Q_lit' is not defined                  no-undef
+   89:13   warning  'Q' is not defined                      no-undef
+   91:10   warning  'verify0' is defined but never used     no-unused-vars
+   93:26   warning  'v2' is not defined                     no-undef
+   94:25   warning  'Q' is not defined                      no-undef
+   95:34   warning  'Q_lit' is not defined                  no-undef
+  102:10   warning  'verify_values' is not defined          no-undef
+  102:82   warning  'v2' is not defined                     no-undef
+  106:10   warning  'verify_values' is not defined          no-undef
+  106:82   warning  'Q' is not defined                      no-undef
+  110:10   warning  'verify_values' is not defined          no-undef
+  110:82   warning  'Q_lit' is not defined                  no-undef
+  116:25   warning  'v2' is not defined                     no-undef
+  118:25   warning  'Q' is not defined                      no-undef
+  120:25   warning  'Q_lit' is not defined                  no-undef
+  123:5    warning  'activity2' is not defined              no-undef
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/js/activity2.js
+    1:10   warning  'activity2' is defined but never used   no-unused-vars
+   16:5    warning  'maindiv' is not defined                no-undef
+   17:24   warning  'MathJax' is not defined                no-undef
+   19:10   warning  'start_act2' is defined but never used  no-unused-vars
+   24:20   warning  'get_collapse_btn_text' is not defined  no-undef
+   30:19   warning  'H' is not defined                      no-undef
+   30:41   warning  'l1' is not defined                     no-undef
+   30:64   warning  'l2' is not defined                     no-undef
+   30:87   warning  'd1' is not defined                     no-undef
+   30:110  warning  'd2' is not defined                     no-undef
+   30:121  warning  'act2_f' is not defined                 no-undef
+   99:5    warning  'maindiv' is not defined                no-undef
+  101:24   warning  'show_step' is not defined              no-undef
+  102:24   warning  'MathJax' is not defined                no-undef
+  105:5    warning  'a1' is not defined                     no-undef
+  105:35   warning  'd1' is not defined                     no-undef
+  106:5    warning  'a2' is not defined                     no-undef
+  106:35   warning  'd2' is not defined                     no-undef
+  107:5    warning  'r' is not defined                      no-undef
+  107:9    warning  'a2' is not defined                     no-undef
+  107:14   warning  'a1' is not defined                     no-undef
+  108:5    warning  'z' is not defined                      no-undef
+  108:19   warning  'g' is not defined                      no-undef
+  108:42   warning  'r' is not defined                      no-undef
+  108:56   warning  'g' is not defined                      no-undef
+  108:68   warning  'act2_f' is not defined                 no-undef
+  108:77   warning  'l1' is not defined                     no-undef
+  108:91   warning  'r' is not defined                      no-undef
+  108:105  warning  'g' is not defined                      no-undef
+  108:109  warning  'd1' is not defined                     no-undef
+  108:127  warning  'r' is not defined                      no-undef
+  108:145  warning  'g' is not defined                      no-undef
+  108:157  warning  'act2_f' is not defined                 no-undef
+  108:166  warning  'l2' is not defined                     no-undef
+  108:177  warning  'g' is not defined                      no-undef
+  108:181  warning  'd2' is not defined                     no-undef
+  109:5    warning  'act2_v2' is not defined                no-undef
+  109:25   warning  'H' is not defined                      no-undef
+  109:29   warning  'z' is not defined                      no-undef
+  110:5    warning  'act2_Q' is not defined                 no-undef
+  110:14   warning  'a2' is not defined                     no-undef
+  110:19   warning  'act2_v2' is not defined                no-undef
+  111:5    warning  'act2_Q_lit' is not defined             no-undef
+  111:18   warning  'act2_Q' is not defined                 no-undef
+  113:10   warning  'verify1' is defined but never used     no-unused-vars
+  115:26   warning  'a1' is not defined                     no-undef
+  116:26   warning  'a2' is not defined                     no-undef
+  117:25   warning  'r' is not defined                      no-undef
+  118:25   warning  'z' is not defined                      no-undef
+  119:31   warning  'act2_v2' is not defined                no-undef
+  120:30   warning  'act2_Q' is not defined                 no-undef
+  121:39   warning  'act2_Q_lit' is not defined             no-undef
+  132:10   warning  'verify_values' is not defined          no-undef
+  132:82   warning  'a1' is not defined                     no-undef
+  136:10   warning  'verify_values' is not defined          no-undef
+  136:82   warning  'a2' is not defined                     no-undef
+  140:10   warning  'verify_values' is not defined          no-undef
+  140:82   warning  'act2_v2' is not defined                no-undef
+  144:10   warning  'verify_values' is not defined          no-undef
+  144:82   warning  'act2_Q' is not defined                 no-undef
+  148:10   warning  'verify_values' is not defined          no-undef
+  148:82   warning  'act2_Q_lit' is not defined             no-undef
+  154:25   warning  'a1' is not defined                     no-undef
+  156:25   warning  'a2' is not defined                     no-undef
+  158:25   warning  'act2_v2' is not defined                no-undef
+  160:25   warning  'act2_Q' is not defined                 no-undef
+  162:25   warning  'act2_Q_lit' is not defined             no-undef
+  165:5    warning  'activity3' is not defined              no-undef
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/js/activity3.js
+    1:10   warning  'activity3' is defined but never used   no-unused-vars
+   16:5    warning  'maindiv' is not defined                no-undef
+   17:24   warning  'MathJax' is not defined                no-undef
+   19:10   warning  'start_act3' is defined but never used  no-unused-vars
+   24:20   warning  'get_collapse_btn_text' is not defined  no-undef
+   30:31   warning  'act3_h1' is not defined                no-undef
+   30:59   warning  'act3_h2' is not defined                no-undef
+   30:75   warning  'act3_l' is not defined                 no-undef
+   30:90   warning  'act3_d' is not defined                 no-undef
+   30:105  warning  'act3_f' is not defined                 no-undef
+   76:5    warning  'maindiv' is not defined                no-undef
+   78:24   warning  'show_step' is not defined              no-undef
+   79:24   warning  'MathJax' is not defined                no-undef
+   82:5    warning  'act3_a' is not defined                 no-undef
+   82:39   warning  'act3_d' is not defined                 no-undef
+   83:5    warning  'act3_v' is not defined                 no-undef
+   83:25   warning  'act3_h1' is not defined                no-undef
+   83:35   warning  'act3_h2' is not defined                no-undef
+   83:60   warning  'g' is not defined                      no-undef
+   83:72   warning  'act3_f' is not defined                 no-undef
+   83:81   warning  'act3_l' is not defined                 no-undef
+   83:96   warning  'g' is not defined                      no-undef
+   83:100  warning  'act3_d' is not defined                 no-undef
+   84:5    warning  'act3_Q' is not defined                 no-undef
+   84:14   warning  'act3_a' is not defined                 no-undef
+   84:23   warning  'act3_v' is not defined                 no-undef
+   85:5    warning  'act3_Q_lit' is not defined             no-undef
+   85:18   warning  'act3_Q' is not defined                 no-undef
+   87:10   warning  'verify2' is defined but never used     no-unused-vars
+   89:30   warning  'act3_a' is not defined                 no-undef
+   90:30   warning  'act3_v' is not defined                 no-undef
+   91:30   warning  'act3_Q' is not defined                 no-undef
+   92:39   warning  'act3_Q_lit' is not defined             no-undef
+   99:10   warning  'verify_values' is not defined          no-undef
+   99:82   warning  'act3_v' is not defined                 no-undef
+  103:10   warning  'verify_values' is not defined          no-undef
+  103:82   warning  'act3_Q' is not defined                 no-undef
+  107:10   warning  'verify_values' is not defined          no-undef
+  107:82   warning  'act3_Q_lit' is not defined             no-undef
+  113:25   warning  'act3_v' is not defined                 no-undef
+  115:25   warning  'act3_Q' is not defined                 no-undef
+  117:25   warning  'act3_Q_lit' is not defined             no-undef
+
+/home/runner/work/exp-major-minor-loss-iitb/exp-major-minor-loss-iitb/experiment/simulation/js/data.js
+   2:5  warning  'g' is assigned a value but never used                 no-unused-vars
+   4:5  warning  'd' is assigned a value but never used                 no-unused-vars
+   5:5  warning  'l' is assigned a value but never used                 no-unused-vars
+   6:5  warning  'h' is assigned a value but never used                 no-unused-vars
+   7:5  warning  'f' is assigned a value but never used                 no-unused-vars
+   8:5  warning  'v2' is assigned a value but never used                no-unused-vars
+   9:5  warning  'Q' is assigned a value but never used                 no-unused-vars
+  10:5  warning  'Q_lit' is assigned a value but never used             no-unused-vars
+  12:5  warning  'H' is assigned a value but never used                 no-unused-vars
+  13:5  warning  'l1' is assigned a value but never used                no-unused-vars
+  14:5  warning  'l2' is assigned a value but never used                no-unused-vars
+  15:5  warning  'd1' is assigned a value but never used                no-unused-vars
+  16:5  warning  'd2' is assigned a value but never used                no-unused-vars
+  17:5  warning  'act2_f' is assigned a value but never used            no-unused-vars
+  18:5  warning  'a1' is assigned a value but never used                no-unused-vars
+  19:5  warning  'a2' is assigned a value but never used                no-unused-vars
+  20:5  warning  'r' is assigned a value but never used                 no-unused-vars
+  21:5  warning  'z' is assigned a value but never used                 no-unused-vars
+  22:5  warning  'act2_v2' is assigned a value but never used           no-unused-vars
+  23:5  warning  'act2_Q' is assigned a value but never used            no-unused-vars
+  24:5  warning  'act2_Q_lit' is assigned a value but never used        no-unused-vars
+  26:5  warning  'act3_h1' is assigned a value but never used           no-unused-vars
+  27:5  warning  'act3_h2' is assigned a value but never used           no-unused-vars
+  28:5  warning  'act3_l' is assigned a value but never used            no-unused-vars
+  29:5  warning  'act3_d' is assigned a value but never used            no-unused-vars
+  30:5  warning  'act3_f' is assigned a value but never used            no-unused-vars
+  31:5  warning  'act3_v' is assigned a value but never used            no-unused-vars
+  32:5  warning  'act3_a' is assigned a value but never used            no-unused-vars
+  33:5  warning  'act3_Q' is assigned a value but never used            no-unused-vars
+  34:5  warning  'act3_Q_lit' is assigned a value but never used        no-unused-vars
+  36:5  warning  'act4_cd' is assigned a value but never used           no-unused-vars
+  37:5  warning  'act4_L1' is assigned a value but never used           no-unused-vars
+  38:5  warning  'act4_L2' is assigned a value but never used           no-unused-vars
+  39:5  warning  'act4_L3' is assigned a value but never used           no-unused-vars
+  40:5  warning  'act4_H1' is assigned a value but never used           no-unused-vars
+  41:5  warning  'act4_H2' is assigned a value but never used           no-unused-vars
+  42:5  warning  'act4_H3' is assigned a value but never used           no-unused-vars
+  43:5  warning  'act4_Q1' is assigned a value but never used           no-unused-vars
+  44:5  warning  'act4_Q2' is assigned a value but never used           no-unused-vars
+  45:5  warning  'act4_Q3' is assigned a value but never used           no-unused-vars
+  46:5  warning  'act4_Q1_lit' is assigned a value but never used       no-unused-vars
+  47:5  warning  'act4_Q2_lit' is assigned a value but never used       no-unused-vars
+  48:5  warning  'act4_Q3_lit' is assigned a value but never used       no-unused-vars
+  49:5  warning  'act4_Q_total_lit' is assigned a value but never used  no-unused-vars
+
+✖ 241 problems (0 errors, 241 warnings)
+
